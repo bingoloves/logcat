@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="logcat_fatal">#9C27B0</color>
+    <color name="logcat_debug">#2196F3</color>
+    <color name="logcat_error">#F44336</color>
+    <color name="logcat_info">#4CAF50</color>
+    <color name="logcat_verbose">#BBBBBB</color>
+    <color name="logcat_warning">#FFC107</color>
+</resources>

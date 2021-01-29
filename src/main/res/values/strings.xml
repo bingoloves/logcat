@@ -1,0 +1,13 @@
+<resources>
+    <!--logcat-->
+    <string name="logcat_create_log_file_failed">Create log file failed</string>
+    <string name="logcat_not_support_on_this_device">Not supported on this device</string>
+    <string-array name="logcat_spinner">
+        <item>Verbose</item>
+        <item>Debug</item>
+        <item>Info</item>
+        <item>Warning</item>
+        <item>Error</item>
+        <item>Fatal</item> <!--致命级别-->
+    </string-array>
+</resources>
