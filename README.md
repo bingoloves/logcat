@@ -3,7 +3,7 @@
 #### 使用
 ```gradle
   //添加依赖
-  implementation 'com.github.bingoloves:logcat:1.0.0'
+  implementation 'com.github.bingoloves:logcat:1.0.1'
 ```
 ```java
   //这里配合悬浮框debug模式配置
